@@ -1,4 +1,4 @@
-##Pre-Trained Summarizer Model (BART) 
+## Pre-Trained Summarizer Model (BART) 
 In this notebook, we use the Facebook BART model to summarize a set of articles from the 3 news website. The goal is to see how well the model performs in summarizing the articles.
 
 ## Libraries Used
