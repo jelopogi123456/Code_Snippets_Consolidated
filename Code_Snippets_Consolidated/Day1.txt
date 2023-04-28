@@ -1,1 +1,0 @@
- This is about my code in WebScraping I used python script that scrapes news articiles from 3 websites and saves them to JSON file, this demonstrates my skills in web scraping using the news paper, schedule, json, requests and beautifulsoup
