@@ -1,3 +1,6 @@
+## RestApi
+To test together the RestApi and React, first run the Rest API and follow this instructions :
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
